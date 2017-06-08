@@ -1,5 +1,7 @@
 # partial-response
 
+[![npm](https://img.shields.io/npm/v/npm.svg)](https://github.com/amnisflow/partial-response)
+
 An Express.js middleware to byte serve content
 
 ## Install
