@@ -17,7 +17,7 @@ It takes a file path as parameter, and will serve the file with proper `Range` h
 Like so:
 
 ```javascript
-const pr = require('./partial-response')
+const pr = require('partial-response')
 
 app.get('/cat-pic', pr, (req, res) => {
   res.sendPartial('./cat-pic1.jpg')
