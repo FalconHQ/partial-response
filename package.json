@@ -16,6 +16,17 @@
     "url": "https://github.com/amnisflow/partial-response/issues"
   },
   "homepage": "https://github.com/amnisflow/partial-response#readme",
+  "keywords": [
+    "express",
+    "middleware",
+    "partial",
+    "response",
+    "byte",
+    "serving",
+    "range",
+    "node",
+    "javascript"
+  ],
   "dependencies": {
     "bluebird": "^3.5.0",
     "debug": "^2.6.8",
