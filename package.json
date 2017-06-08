@@ -1,0 +1,25 @@
+{
+  "name": "partial-response",
+  "version": "1.0.0",
+  "description": "An Express.js middleware to byte serve content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amnisflow/partial-response.git"
+  },
+  "author": "https://github.com/amnisflow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amnisflow/partial-response/issues"
+  },
+  "homepage": "https://github.com/amnisflow/partial-response#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "debug": "^2.6.8",
+    "mime-types": "^2.1.15",
+    "range-parser": "^1.2.0"
+  }
+}
